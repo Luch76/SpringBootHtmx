@@ -11,6 +11,8 @@
 
     <asset:stylesheet src="application.css"/>
 
+    <script src="https://unpkg.com/htmx.org@2.0.0"></script>
+
     <g:layoutHead/>
 </head>
 
